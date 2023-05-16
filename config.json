@@ -1,5 +1,5 @@
 {
-  "token": "MTEwNjY0NzU0MTY5ODc5NzY3OA.Ga7ZR9._6fddS8NWphwkxSEA_3mO63ZBgfFRt7qwblQyA",
+  "token": "process.env.token",
   "prefix": "!",
   "guild_id": 754991441125572670,
   "ticket_channel_id": 1042814215355912324,
